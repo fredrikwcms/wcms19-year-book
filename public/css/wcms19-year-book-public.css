@@ -2,3 +2,23 @@
  * All of the CSS for your public-facing functionality should be
  * included in this file.
  */
+
+ .wcms19yb-courses {
+     background-color: #eee;
+     padding: 1.5rem 1rem;
+     margin-top: 1rem;
+ }
+
+ .wcms19yb-student-details {
+     background-color:  #fbb;
+     margin-top: 1rem;
+     padding: 1.5rem 1rem;
+ }
+
+.wcms19yb-student-details h2 {
+    font-size: 2rem;
+}
+
+.wcms19yb-student-details span {
+    font-size: 1.5rem;
+}
